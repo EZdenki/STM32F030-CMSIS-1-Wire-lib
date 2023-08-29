@@ -11,4 +11,3 @@ Reads a byte of data from the 1-Wire bus.<br>
 ### Notes:
 1. These functions have not been tested on 1-Wire devices other than the DS18B20.<br>
 2. Code is hard-coded so that the 1-Wire device IO pin must be connected to GPIO pin A5.
-
