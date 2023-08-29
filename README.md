@@ -10,4 +10,4 @@ Write 8 bits of data (from least significant bit) to the 1-Wire device.
 Reads a byte of data from the 1-Wire bus.<br>
 ### Notes:
 1. These functions have not been tested on 1-Wire devices other than the DS18B20.<br>
-2. Code is hard-coded so that the 1-Wire device IO pin must be connected to GPIO pin A5.
+2. Code is hard-coded so that the 1-Wire device IO pin is connected to GPIO pin PA5 (pin 11).
